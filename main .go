@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 package main
 
 import (
@@ -136,3 +137,5 @@ func sendTicket(userTickets uint, firstName string, lastName string, email strin
 	fmt.Printf("Sending Ticket:\n %v \n to email address %v\n", ticket, email)
 	fmt.Println("#######################")
 }
+=======
+>>>>>>> Stashed changes
